@@ -1,4 +1,4 @@
-public class Main {
+public class Main prova {
 	public static void main(String[] args) {
 		Scacchiera scacchiera = new Scacchiera();
 		
